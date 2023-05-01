@@ -1,0 +1,6 @@
+.header{
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    text-shadow: #FFF 0px 0px 5px,#FFF 0px 0px 5px,#FFF 0px 0px 5px
+}
